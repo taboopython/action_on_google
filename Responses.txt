@@ -1,0 +1,1 @@
+<speak><prosody pitch="+200%">メモするには「メモして」といってください。<break time=''0.1s"/>また<break time=''0.1s"/>「確認」と言うとメモを参照できます。</prosody></speak>
